@@ -1,1 +1,1 @@
-The site is developed using Bootstrap
+The site is developed using Bootstrap.
